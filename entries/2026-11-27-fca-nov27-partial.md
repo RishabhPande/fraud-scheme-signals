@@ -1,6 +1,6 @@
 # FCA Warning List (27 Nov 2026, partial day)
 
-- **Recorded:** 27 Nov 2026, about 11:20 am ET. The 27 Nov items are a partial-day cutoff: the list publishes through the day, so later 27 Nov additions go in the next entry.
+- **Recorded:** 27 Nov 2026, about 11:15 am ET. The 27 Nov items are a partial-day cutoff: the list publishes through the day, so later 27 Nov additions go in the next entry.
 - **Sources:** [FCA Warning List](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)
 - **26 Nov check:** the full list was re-read at this time. The 26 Nov entry already covers every notice first published on 26 Nov (twelve), and no later 26 Nov additions appeared.
 
